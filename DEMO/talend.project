@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
   <TalendProperties:Project xmi:id="_bDmVAcrUEeejBbsUgXXung" label="Demo" language="java" technicalLabel="DEMO" author="_bDmVAsrUEeejBbsUgXXung" productVersion="Talend Integration Cloud Hybrid Edition-6.4.1.20170623_1246" url="{&quot;location&quot;:&quot;https://github.com/saurabhjindal4/Talend&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <technicalStatus xmi:id="_bkkUEMrUEeejBbsUgXXung" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_bkkUEcrUEeejBbsUgXXung" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_bkkUEsrUEeejBbsUgXXung" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_bkajEMrUEeejBbsUgXXung" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_bkajEcrUEeejBbsUgXXung" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_bkajEsrUEeejBbsUgXXung" label="validated" code="VAL"/>
     <migrationTask xmi:id="_bjEfQMrUEeejBbsUgXXung" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_bjEfQcrUEeejBbsUgXXung" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_bjEfQsrUEeejBbsUgXXung" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
