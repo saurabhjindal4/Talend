@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMapper="http://www.talend.org/mapper" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default" jobType="Standard">
   <context confirmationNeeded="false" name="Default">
-    <contextParameter comment="" name="parameter_Client_Key" prompt="parameter_Client_Key?" promptNeeded="false" type="id_Password" value="TuB3MF8y2O6T3Dxh5D1vTSi33PQuX8lQMlmsgsBXx/In+8fivP6Mxw=="/>
-    <contextParameter comment="" name="parameter_Client_Secret" prompt="parameter_Client_Secret?" promptNeeded="false" type="id_Password" value="Sv1wTvfMKlXFpfF+53n2JjjlXMFmLgT7dV9SNSBaek3hURJ9uM6anA=="/>
-    <contextParameter comment="" name="parameter_Access_Token" prompt="parameter_Access_Token?" promptNeeded="false" type="id_Password" value="xXO6Fsa1U3d8gAjNugDFUTWG4JOd/rd8zu9WF40hLtzrnSx1gGkISA=="/>
-    <contextParameter comment="" name="parameter_Referesh_Token" prompt="parameter_Referesh_Token?" promptNeeded="false" type="id_Password" value="0t3JU3XHCpcSEvsXkbFLEUiYJNaw5D00uMqAl0paUG9sBesECS4Z3JQZpjVpZWsSkML6aZfMc0J4m4OZrMe3E0+KZkbZDxI9"/>
+    <contextParameter comment="" name="connection_box_client_key" prompt="connection_box_client_key?" promptNeeded="false" type="id_Password" value="TuB3MF8y2O6T3Dxh5D1vTSi33PQuX8lQMlmsgsBXx/In+8fivP6Mxw=="/>
+    <contextParameter comment="" name="connection_box_client_secret" prompt="connection_box_client_secret?" promptNeeded="false" type="id_Password" value="Sv1wTvfMKlXFpfF+53n2JjjlXMFmLgT7dV9SNSBaek3hURJ9uM6anA=="/>
+    <contextParameter comment="" name="connection_box_access_token" prompt="connection_box_access_token?" promptNeeded="false" type="id_Password" value="xXO6Fsa1U3d8gAjNugDFUTWG4JOd/rd8zu9WF40hLtzrnSx1gGkISA=="/>
+    <contextParameter comment="" name="connection_box_referesh_token" prompt="connection_box_referesh_token?" promptNeeded="false" type="id_Password" value="0t3JU3XHCpcSEvsXkbFLEUiYJNaw5D00uMqAl0paUG9sBesECS4Z3JQZpjVpZWsSkML6aZfMc0J4m4OZrMe3E0+KZkbZDxI9"/>
     <contextParameter comment="" name="connection_snowflake_account" prompt="connection_snowflake_account?" promptNeeded="false" repositoryContextId="_XHU9sMyKEee1SJZcTpQWJQ" type="id_String" value="eccella.eu-central-1"/>
     <contextParameter comment="" name="connection_snowflake_database" prompt="connection_snowflake_database?" promptNeeded="false" repositoryContextId="_XHU9sMyKEee1SJZcTpQWJQ" type="id_String" value="PK_DEMODB"/>
     <contextParameter comment="" name="connection_snowflake_password" prompt="connection_snowflake_password?" promptNeeded="false" repositoryContextId="_XHU9sMyKEee1SJZcTpQWJQ" type="id_Password" value="p8HSfFMPDh0bnu94b8n5fQ=="/>
@@ -125,10 +125,10 @@
   </parameters>
   <node componentName="tBoxConnection" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="192" posY="192">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tBoxConnection_1" show="false"/>
-    <elementParameter field="TEXT" name="CLIENT_ID" value="context.parameter_Client_Key"/>
-    <elementParameter field="TEXT" name="CLIENT_SECRET" value="context.parameter_Client_Secret"/>
-    <elementParameter field="TEXT" name="ACCESS_TOKEN" value="context.parameter_Access_Token"/>
-    <elementParameter field="TEXT" name="REFRESH_TOKEN" value="context.parameter_Referesh_Token"/>
+    <elementParameter field="TEXT" name="CLIENT_ID" value="context.connection_box_client_key"/>
+    <elementParameter field="TEXT" name="CLIENT_SECRET" value="context.connection_box_client_secret"/>
+    <elementParameter field="TEXT" name="ACCESS_TOKEN" value="context.connection_box_access_token"/>
+    <elementParameter field="TEXT" name="REFRESH_TOKEN" value="context.connection_box_referesh_token"/>
     <elementParameter field="CHECK" name="USE_PROXY" value="false"/>
     <elementParameter field="TEXT" name="PROXY_HOST" value="&quot;127.0.0.1&quot;" show="false"/>
     <elementParameter field="TEXT" name="PROXY_PORT" value="8087" show="false"/>
