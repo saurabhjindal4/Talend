@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_cWakUM3gEeeo5JN2KCRYow" confirmationNeeded="false" name="Default">
-  <contextParameter xmi:id="_cWakUc3gEeeo5JN2KCRYow" comment="" name="parameter_snowflake_account" prompt="parameter_snowflake_account?" promptNeeded="false" type="id_String" value="eccella.eu-central-1"/>
-  <contextParameter xmi:id="_cWakUs3gEeeo5JN2KCRYow" comment="" name="parameter_snowflake_userid" prompt="parameter_snowflake_userid?" promptNeeded="false" type="id_String" value="tajinder"/>
-  <contextParameter xmi:id="_cWakU83gEeeo5JN2KCRYow" comment="" name="parameter_snowflake_password" prompt="parameter_snowflake_password?" promptNeeded="false" type="id_Password" value="p8HSfFMPDh0bnu94b8n5fQ=="/>
-  <contextParameter xmi:id="_cWakVM3gEeeo5JN2KCRYow" comment="" name="parameter_snowflake_warehouse" prompt="parameter_snowflake_warehouse?" promptNeeded="false" type="id_String" value="LOAD_WH"/>
-  <contextParameter xmi:id="_cWakVc3gEeeo5JN2KCRYow" comment="" name="parameter_snowflake_schema" prompt="parameter_snowflake_schema?" promptNeeded="false" type="id_String" value="PUBLIC"/>
-  <contextParameter xmi:id="_cWakVs3gEeeo5JN2KCRYow" comment="" name="parameter_snowflake_database" prompt="parameter_snowflake_database?" promptNeeded="false" type="id_String" value="PK_DEMODB"/>
+  <contextParameter xmi:id="_cWakUc3gEeeo5JN2KCRYow" comment="" name="connection_snowflake_account" prompt="connection_snowflake_account?" promptNeeded="false" type="id_String" value="eccella.eu-central-1"/>
+  <contextParameter xmi:id="_cWakUs3gEeeo5JN2KCRYow" comment="" name="connection_snowflake_userid" prompt="connection_snowflake_userid?" promptNeeded="false" type="id_String" value="tajinder"/>
+  <contextParameter xmi:id="_cWakU83gEeeo5JN2KCRYow" comment="" name="connection_snowflake_password" prompt="connection_snowflake_password?" promptNeeded="false" type="id_Password" value="p8HSfFMPDh0bnu94b8n5fQ=="/>
+  <contextParameter xmi:id="_cWakVM3gEeeo5JN2KCRYow" comment="" name="connection_snowflake_warehouse" prompt="connection_snowflake_warehouse?" promptNeeded="false" type="id_String" value="LOAD_WH"/>
+  <contextParameter xmi:id="_cWakVc3gEeeo5JN2KCRYow" comment="" name="connection_snowflake_schema" prompt="connection_snowflake_schema?" promptNeeded="false" type="id_String" value="PUBLIC"/>
+  <contextParameter xmi:id="_cWakVs3gEeeo5JN2KCRYow" comment="" name="connection_snowflake_database" prompt="connection_snowflake_database?" promptNeeded="false" type="id_String" value="PK_DEMODB"/>
 </talendfile:ContextType>
