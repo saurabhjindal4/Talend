@@ -2,19 +2,10 @@
 <talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_6GmycM3nEeeo5JN2KCRYow" confirmationNeeded="false" name="Default">
   <contextParameter xmi:id="_6Gmycc3nEeeo5JN2KCRYow" comment="" name="connection_SF_userPassword_userId" prompt="connection_SF_userPassword_userId?" promptNeeded="false" type="id_String" value="saurabhjindaliitb@gmail.com"/>
   <contextParameter xmi:id="_6Gmycs3nEeeo5JN2KCRYow" comment="" name="connection_SF_endpoint" prompt="connection_SF_endpoint?" promptNeeded="false" type="id_String" value="https://www.salesforce.com/services/Soap/u/39.0"/>
-  <contextParameter xmi:id="_6Gmyc83nEeeo5JN2KCRYow" comment="" name="connection_SF_proxy_host" prompt="connection_SF_proxy_host?" promptNeeded="false" type="id_String" value=""/>
   <contextParameter xmi:id="_6GmydM3nEeeo5JN2KCRYow" comment="" name="connection_SF_userPassword_securityKey" prompt="connection_SF_userPassword_securityKey?" promptNeeded="false" type="id_Password" value="rkDhZKDFTa98qOJQ7qOHivCh5zuJN9UysHEAAbCAol8="/>
   <contextParameter xmi:id="_6Gmydc3nEeeo5JN2KCRYow" comment="" name="connection_SF_timeout" prompt="connection_SF_timeout?" promptNeeded="false" type="id_Integer" value="60000"/>
-  <contextParameter xmi:id="_6Gmyds3nEeeo5JN2KCRYow" comment="" name="connection_SF_oauth_clientId" prompt="connection_SF_oauth_clientId?" promptNeeded="false" type="id_String" value=""/>
-  <contextParameter xmi:id="_6Gmyd83nEeeo5JN2KCRYow" comment="" name="connection_SF_clientId" prompt="connection_SF_clientId?" promptNeeded="false" type="id_String" value=""/>
-  <contextParameter xmi:id="_6GmyeM3nEeeo5JN2KCRYow" comment="" name="connection_SF_proxy_userPassword_userId" prompt="connection_SF_proxy_userPassword_userId?" promptNeeded="false" type="id_String" value=""/>
-  <contextParameter xmi:id="_6Gmyec3nEeeo5JN2KCRYow" comment="" name="connection_SF_proxy_port" prompt="connection_SF_proxy_port?" promptNeeded="false" type="id_Integer" value=""/>
   <contextParameter xmi:id="_6Gmyes3nEeeo5JN2KCRYow" comment="" name="connection_SF_userPassword_password" prompt="connection_SF_userPassword_password?" promptNeeded="false" type="id_Password" value="PaMGaAOzLOjDHWs9RD/ITw=="/>
-  <contextParameter xmi:id="_6Gmye83nEeeo5JN2KCRYow" comment="" name="connection_SF_sessionDirectory" prompt="connection_SF_sessionDirectory?" promptNeeded="false" type="id_String" value=""/>
-  <contextParameter xmi:id="_6GmyfM3nEeeo5JN2KCRYow" comment="" name="connection_SF_oauth_tokenFile" prompt="connection_SF_oauth_tokenFile?" promptNeeded="false" type="id_String" value=""/>
   <contextParameter xmi:id="_6Gmyfc3nEeeo5JN2KCRYow" comment="" name="connection_SF_proxy_userPassword_password" prompt="connection_SF_proxy_userPassword_password?" promptNeeded="false" type="id_Password" value=""/>
-  <contextParameter xmi:id="_6Gmyfs3nEeeo5JN2KCRYow" comment="" name="connection_SF_oauth_callbackHost" prompt="connection_SF_oauth_callbackHost?" promptNeeded="false" type="id_String" value=""/>
   <contextParameter xmi:id="_6Gmyf83nEeeo5JN2KCRYow" comment="" name="connection_SF_apiVersion" prompt="connection_SF_apiVersion?" promptNeeded="false" type="id_String" value="39.0"/>
   <contextParameter xmi:id="_6GmygM3nEeeo5JN2KCRYow" comment="" name="connection_SF_oauth_clientSecret" prompt="connection_SF_oauth_clientSecret?" promptNeeded="false" type="id_Password" value=""/>
-  <contextParameter xmi:id="_6Gmygc3nEeeo5JN2KCRYow" comment="" name="connection_SF_oauth_callbackPort" prompt="connection_SF_oauth_callbackPort?" promptNeeded="false" type="id_Integer" value=""/>
 </talendfile:ContextType>
