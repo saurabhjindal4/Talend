@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_YCrzkM4HEeeo5JN2KCRYow" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_YCrzkc4HEeeo5JN2KCRYow" comment="" name="connection_salesforce_oauth_tokenFile" prompt="connection_salesforce_oauth_tokenFile?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_YCrzks4HEeeo5JN2KCRYow" comment="" name="connection_salesforce_userPassword_password" prompt="connection_salesforce_userPassword_password?" promptNeeded="false" type="id_Password" value="PaMGaAOzLOjDHWs9RD/ITw=="/>
+  <contextParameter xmi:id="_YCrzk84HEeeo5JN2KCRYow" comment="" name="connection_salesforce_proxy_userPassword_password" prompt="connection_salesforce_proxy_userPassword_password?" promptNeeded="false" type="id_Password" value=""/>
+  <contextParameter xmi:id="_YCrzlM4HEeeo5JN2KCRYow" comment="" name="connection_salesforce_endpoint" prompt="connection_salesforce_endpoint?" promptNeeded="false" type="id_String" value="https://www.salesforce.com/services/Soap/u/39.0"/>
+  <contextParameter xmi:id="_YCrzlc4HEeeo5JN2KCRYow" comment="" name="connection_salesforce_sessionDirectory" prompt="connection_salesforce_sessionDirectory?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_YCrzls4HEeeo5JN2KCRYow" comment="" name="connection_salesforce_clientId" prompt="connection_salesforce_clientId?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_YCrzl84HEeeo5JN2KCRYow" comment="" name="connection_salesforce_oauth_callbackHost" prompt="connection_salesforce_oauth_callbackHost?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_YCrzmM4HEeeo5JN2KCRYow" comment="" name="connection_salesforce_proxy_port" prompt="connection_salesforce_proxy_port?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_YCrzmc4HEeeo5JN2KCRYow" comment="" name="connection_salesforce_userPassword_userId" prompt="connection_salesforce_userPassword_userId?" promptNeeded="false" type="id_String" value="saurabhjindaliitb@gmail.com"/>
+  <contextParameter xmi:id="_YCrzms4HEeeo5JN2KCRYow" comment="" name="connection_salesforce_userPassword_securityKey" prompt="connection_salesforce_userPassword_securityKey?" promptNeeded="false" type="id_Password" value="rkDhZKDFTa98qOJQ7qOHivCh5zuJN9UysHEAAbCAol8="/>
+  <contextParameter xmi:id="_YCrzm84HEeeo5JN2KCRYow" comment="" name="connection_salesforce_proxy_userPassword_userId" prompt="connection_salesforce_proxy_userPassword_userId?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_YCrznM4HEeeo5JN2KCRYow" comment="" name="connection_salesforce_proxy_host" prompt="connection_salesforce_proxy_host?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_YCrznc4HEeeo5JN2KCRYow" comment="" name="connection_salesforce_oauth_clientSecret" prompt="connection_salesforce_oauth_clientSecret?" promptNeeded="false" type="id_Password" value=""/>
+  <contextParameter xmi:id="_YCrzns4HEeeo5JN2KCRYow" comment="" name="connection_salesforce_oauth_clientId" prompt="connection_salesforce_oauth_clientId?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_YCrzn84HEeeo5JN2KCRYow" comment="" name="connection_salesforce_apiVersion" prompt="connection_salesforce_apiVersion?" promptNeeded="false" type="id_String" value="39.0"/>
+  <contextParameter xmi:id="_YCrzoM4HEeeo5JN2KCRYow" comment="" name="connection_salesforce_oauth_callbackPort" prompt="connection_salesforce_oauth_callbackPort?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_YCrzoc4HEeeo5JN2KCRYow" comment="" name="connection_salesforce_timeout" prompt="connection_salesforce_timeout?" promptNeeded="false" type="id_Integer" value="60000"/>
+</talendfile:ContextType>
