@@ -2446,7 +2446,6 @@
     </ItemsRelations>
     <ItemsRelations xmi:id="_cZoQYM3gEeeo5JN2KCRYow">
       <baseItem xmi:id="_cZoQYc3gEeeo5JN2KCRYow" id="_8LUVIMyHEee1SJZcTpQWJQ" version="0.1" type="job"/>
-      <relatedItems xmi:id="_cZoQYs3gEeeo5JN2KCRYow" id="_XHU9sMyKEee1SJZcTpQWJQ" version="Latest" type="context"/>
       <relatedItems xmi:id="_cZoQY83gEeeo5JN2KCRYow" id="SQLike" version="Latest" type="routine"/>
       <relatedItems xmi:id="_cZoQZM3gEeeo5JN2KCRYow" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_cZoQZc3gEeeo5JN2KCRYow" id="TalendString" version="Latest" type="routine"/>
@@ -2462,6 +2461,8 @@
       <relatedItems xmi:id="_cZoQb83gEeeo5JN2KCRYow" id="DQTechnical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_cZoQcM3gEeeo5JN2KCRYow" id="DataQualityDependencies" version="Latest" type="routine"/>
       <relatedItems xmi:id="_cZoQcc3gEeeo5JN2KCRYow" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_yzO0AM3-Eeeo5JN2KCRYow" id="_puYtMM3vEeeo5JN2KCRYow" version="Latest" type="context"/>
+      <relatedItems xmi:id="_yzO0Ac3-Eeeo5JN2KCRYow" id="_iTwHoM3vEeeo5JN2KCRYow" version="Latest" type="property"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_lRQpUM3pEeeo5JN2KCRYow">
       <baseItem xmi:id="_lRQpUc3pEeeo5JN2KCRYow" id="_gHbLIDfGEeahJaHnNLrpfw" version="0.1" type="job"/>
