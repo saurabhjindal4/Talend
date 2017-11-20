@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_puh3IM3vEeeo5JN2KCRYow" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_puh3Ic3vEeeo5JN2KCRYow" comment="" name="connection_snowflake_account" prompt="connection_snowflake_account?" promptNeeded="false" type="id_String" value="eccella.eu-central-1"/>
+  <contextParameter xmi:id="_puh3Is3vEeeo5JN2KCRYow" comment="" name="connection_snowflake_schemaName" prompt="connection_snowflake_schemaName?" promptNeeded="false" type="id_String" value="PUBLIC"/>
+  <contextParameter xmi:id="_puh3I83vEeeo5JN2KCRYow" comment="" name="connection_snowflake_loginTimeout" prompt="connection_snowflake_loginTimeout?" promptNeeded="false" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_puh3JM3vEeeo5JN2KCRYow" comment="" name="connection_snowflake_db" prompt="connection_snowflake_db?" promptNeeded="false" type="id_String" value="PK_DEMODB"/>
+  <contextParameter xmi:id="_puh3Jc3vEeeo5JN2KCRYow" comment="" name="connection_snowflake_userPassword_userId" prompt="connection_snowflake_userPassword_userId?" promptNeeded="false" type="id_String" value="tajinder"/>
+  <contextParameter xmi:id="_puh3Js3vEeeo5JN2KCRYow" comment="" name="connection_snowflake_role" prompt="connection_snowflake_role?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_puh3J83vEeeo5JN2KCRYow" comment="" name="connection_snowflake_warehouse" prompt="connection_snowflake_warehouse?" promptNeeded="false" type="id_String" value="LOAD_WH"/>
+  <contextParameter xmi:id="_puh3KM3vEeeo5JN2KCRYow" comment="" name="connection_snowflake_userPassword_password" prompt="connection_snowflake_userPassword_password?" promptNeeded="false" type="id_Password" value="p8HSfFMPDh0bnu94b8n5fQ=="/>
+</talendfile:ContextType>
