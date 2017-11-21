@@ -123,7 +123,7 @@
   </parameters>
   <node componentName="tJava" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="160" posY="96">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tJava_1" show="false"/>
-    <elementParameter field="MEMO_JAVA" name="CODE" value="System.out.println(&quot;P1 : &quot; + context.connection_snowflake_db);&#xA;System.out.println(&quot;P2 : &quot; + context.connection_snowflake_account);&#xA;System.out.println(&quot;P4 : &quot; + context.connection_snowflake_userPassword_password);&#xA;System.out.println(&quot;P5 : &quot; + context.connection_snowflake_userPassword_userId);&#xA;System.out.println(&quot;P5 : &quot; + context.connection_snowflake_warehouse);&#xA;System.out.println(&quot;P6 : &quot; + context.connection_snowflake_schemaName.);&#xA;System.out.println(&quot;P7 : &quot; + context.connection_snowflake_role);"/>
+    <elementParameter field="MEMO_JAVA" name="CODE" value="System.out.println(&quot;P1 : &quot; + context.connection_snowflake_db);&#xA;System.out.println(&quot;P2 : &quot; + context.connection_snowflake_account);&#xA;System.out.println(&quot;P4 : &quot; + context.connection_snowflake_userPassword_password);&#xA;System.out.println(&quot;P5 : &quot; + context.connection_snowflake_userPassword_userId);&#xA;System.out.println(&quot;P5 : &quot; + context.connection_snowflake_warehouse);&#xA;System.out.println(&quot;P6 : &quot; + context.connection_snowflake_schemaName);"/>
     <elementParameter field="MEMO_IMPORT" name="IMPORT" value="//import java.util.List;"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tJava_1"/>
