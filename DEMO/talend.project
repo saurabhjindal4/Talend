@@ -85,19 +85,6 @@
         <elementParameter xmi:id="_tyjHkcrUEeejBbsUgXXung" field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
       </parameters>
     </implicitContextSettings>
-    <ItemsRelations xmi:id="_ipgcCsthEeexT7zcuJxzPA">
-      <baseItem xmi:id="_ipgcC8thEeexT7zcuJxzPA" id="_mkMJIJE9Ed2rzeJvhcQ3Aw" version="0.1" type="job"/>
-      <relatedItems xmi:id="_ipgcDMthEeexT7zcuJxzPA" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_ipgcDcthEeexT7zcuJxzPA" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_ipgcDsthEeexT7zcuJxzPA" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_ipgcD8thEeexT7zcuJxzPA" id="DemoRoutines" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_ipgcEMthEeexT7zcuJxzPA" id="GetRandomPhoneNum" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_ipgcEcthEeexT7zcuJxzPA" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_ipgcEsthEeexT7zcuJxzPA" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_ipgcE8thEeexT7zcuJxzPA" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_ipgcFMthEeexT7zcuJxzPA" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_ipgcFcthEeexT7zcuJxzPA" id="Mathematical" version="Latest" type="routine"/>
-    </ItemsRelations>
     <ItemsRelations xmi:id="_cZfGcM3gEeeo5JN2KCRYow">
       <baseItem xmi:id="_cZfGcc3gEeeo5JN2KCRYow" id="_oz1_kMyGEee1SJZcTpQWJQ" version="0.1" type="job"/>
       <relatedItems xmi:id="_cZfGc83gEeeo5JN2KCRYow" id="SQLike" version="Latest" type="routine"/>
