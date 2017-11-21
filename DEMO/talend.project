@@ -2521,6 +2521,49 @@
       <relatedItems xmi:id="_LVd8386FEeeuxLBOL_XCNA" id="DataQualityDependencies" version="Latest" type="routine"/>
       <relatedItems xmi:id="_LVd84M6FEeeuxLBOL_XCNA" id="TalendStringUtil" version="Latest" type="routine"/>
     </ItemsRelations>
+    <deletedFolders>process/Examples/t04_Context</deletedFolders>
+    <deletedFolders>process/Examples/t03_DemoRoutines</deletedFolders>
+    <deletedFolders>process/Examples/t02_Concatening</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/XML</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/System_/tRunJobRow</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/System_/tRunJob/tRunJobAndContext</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/System_/tRunJob</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/System_</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Processing/tMap/Reload_At_Each_Row</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Processing/tMap</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Processing/Fields</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Processing</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Orchestration/tWaitForSQL</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Orchestration</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Misc</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/LogError</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Internet</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/File/Output</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/File/Management</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/File/Input</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/File</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/ELT/Generic</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/ELT</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Databases/SP</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Databases/SCD</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Databases/InOut/Sybase</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Databases/InOut/SQLite</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Databases/InOut/PostgreSQL</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Databases/InOut/Oracle</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Databases/InOut/MySQL</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Databases/InOut/MSSQLServer</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Databases/InOut/DBGeneric</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Databases/InOut/DB2</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Databases/InOut/Access</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Databases/InOut/AS400</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Databases/InOut</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Databases/Bulk</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/Databases</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/DataQuality/tFuzzyMatch</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/DataQuality</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo/CustomCode</deletedFolders>
+    <deletedFolders>process/Examples/t01_Compo</deletedFolders>
+    <deletedFolders>process/Examples</deletedFolders>
     <migrationTask xmi:id="_bjEfQMrUEeejBbsUgXXung" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_bjEfQcrUEeejBbsUgXXung" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_bjEfQsrUEeejBbsUgXXung" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
