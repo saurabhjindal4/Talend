@@ -13,11 +13,6 @@
     <contextParameter comment="" name="connection_salesforce_userPassword_password" prompt="connection_salesforce_userPassword_password?" promptNeeded="false" repositoryContextId="_YCke0M4HEeeo5JN2KCRYow" type="id_Password" value="PaMGaAOzLOjDHWs9RD/ITw=="/>
     <contextParameter comment="" name="connection_salesforce_userPassword_securityKey" prompt="connection_salesforce_userPassword_securityKey?" promptNeeded="false" repositoryContextId="_YCke0M4HEeeo5JN2KCRYow" type="id_Password" value="rkDhZKDFTa98qOJQ7qOHivCh5zuJN9UysHEAAbCAol8="/>
     <contextParameter comment="" name="connection_salesforce_userPassword_userId" prompt="connection_salesforce_userPassword_userId?" promptNeeded="false" repositoryContextId="_YCke0M4HEeeo5JN2KCRYow" type="id_String" value="saurabhjindaliitb@gmail.com"/>
-    <contextParameter comment="" name="connection_salesforce_oauth_tokenFile" prompt="connection_salesforce_oauth_tokenFile?" promptNeeded="false" repositoryContextId="_YCke0M4HEeeo5JN2KCRYow" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_salesforce_oauth_callbackHost" prompt="connection_salesforce_oauth_callbackHost?" promptNeeded="false" repositoryContextId="_YCke0M4HEeeo5JN2KCRYow" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_salesforce_oauth_callbackPort" prompt="connection_salesforce_oauth_callbackPort?" promptNeeded="false" repositoryContextId="_YCke0M4HEeeo5JN2KCRYow" type="id_Integer" value=""/>
-    <contextParameter comment="" name="connection_salesforce_oauth_clientSecret" prompt="connection_salesforce_oauth_clientSecret?" promptNeeded="false" repositoryContextId="_YCke0M4HEeeo5JN2KCRYow" type="id_Password" value=""/>
-    <contextParameter comment="" name="connection_salesforce_oauth_clientId" prompt="connection_salesforce_oauth_clientId?" promptNeeded="false" repositoryContextId="_YCke0M4HEeeo5JN2KCRYow" type="id_String" value=""/>
   </context>
   <parameters>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" value="0" show="false"/>
