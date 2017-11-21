@@ -373,6 +373,7 @@
   </node>
   <node componentName="tSnowflakeConnection" componentVersion="0.19.2" offsetLabelX="0" offsetLabelY="0" posX="32" posY="96">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tSnowflakeConnection_1" show="false"/>
+    <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:PROPERTY_TYPE" value="REPOSITORY" show="false"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" value="_iTwHoM3vEeeo5JN2KCRYow" show="false"/>
     <elementParameter field="TEXT" name="LABEL" value="Open Snowflake Connection"/>
@@ -421,6 +422,7 @@
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="Publish" show="false"/>
   </connection>
   <connection connectorName="SUBJOB_OK" label="OnSubjobOk" lineStyle="1" metaname="tSnowflakeConnection_1" offsetLabelX="0" offsetLabelY="0" source="tSnowflakeConnection_1" target="tSalesforceConnection_1">
+    <elementParameter field="CHECK" name="ACTIVATE" value="false" show="false"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="OnSubjobOk1" show="false"/>
   </connection>
   <connection connectorName="COMPONENT_OK" label="OnComponentOk" lineStyle="3" metaname="tSalesforceConnection_1" offsetLabelX="0" offsetLabelY="0" source="tSalesforceConnection_1" target="tSalesforceInput_1">
