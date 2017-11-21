@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default" jobType="Standard">
   <context confirmationNeeded="false" name="Default">
-    <contextParameter comment="" name="connection_box_client_key" prompt="connection_box_client_key?" promptNeeded="false" type="id_Password" value=""/>
-    <contextParameter comment="" name="connection_box_client_secret" prompt="connection_box_client_secret?" promptNeeded="false" type="id_Password" value=""/>
-    <contextParameter comment="" name="connection_box_access_token" prompt="connection_box_access_token?" promptNeeded="false" type="id_Password" value=""/>
-    <contextParameter comment="" name="connection_box_refresh_token" prompt="connection_box_refresh_token?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter comment="" name="connection_box_client_key" prompt="connection_box_client_key?" promptNeeded="false" type="id_Password" value="cj0eKLr+XaWOiH/t0fpIXl7uc9B0YRulOf1031ucLGXTGTqmmP8tNg=="/>
+    <contextParameter comment="" name="connection_box_client_secret" prompt="connection_box_client_secret?" promptNeeded="false" type="id_Password" value="gDHoV1pcvkkdOmi/nzVBZFHhQZzcMcWNb4gST/e3MLFs05gGt9Y1Mg=="/>
+    <contextParameter comment="" name="connection_box_access_token" prompt="connection_box_access_token?" promptNeeded="false" type="id_Password" value="2Ymy8GtLKN4so4XcbTWPOTp0pnA+kX52aJRz6DDtS6IIdbqNafbhjg=="/>
+    <contextParameter comment="" name="connection_box_refresh_token" prompt="connection_box_refresh_token?" promptNeeded="false" type="id_Password" value="ektFGC7+lZwR9YLtNvA4rvI5muicGcJE7NB6wi8a8V+4HFq6SleQFFxurw+NAji0MJMvS2So8ooIf0Fz1Wa1satQy+Iw0/wh"/>
   </context>
   <parameters>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" value="0" show="false"/>
