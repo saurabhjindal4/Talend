@@ -222,7 +222,7 @@
       <column comment="" key="false" length="-1" name="EXTERNAL_ID_2" nullable="true" pattern="" precision="-1" type="id_String" originalLength="-1" usefulColumn="true"/>
     </metadata>
     <nodeData xsi:type="TalendMapper:MapperData">
-      <uiProperties/>
+      <uiProperties shellMaximized="true"/>
       <varTables sizeState="INTERMEDIATE" name="Var" minimized="true"/>
       <outputTables sizeState="INTERMEDIATE" name="Publish">
         <mapperTableEntries name="ACCOUNT_ID" expression="new BigDecimal(Numeric.sequence(&quot;Pub_Account&quot;,1,1) ) " type="id_BigDecimal" nullable="true"/>
