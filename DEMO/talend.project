@@ -125,7 +125,6 @@
     <ItemsRelations xmi:id="_fQ-1AM4BEeeo5JN2KCRYow">
       <baseItem xmi:id="_fQ-1Ac4BEeeo5JN2KCRYow" id="_zui60M4AEeeo5JN2KCRYow" version="0.1" type="job"/>
       <relatedItems xmi:id="_fQ-1As4BEeeo5JN2KCRYow" id="_puYtMM3vEeeo5JN2KCRYow" version="Latest" type="context"/>
-      <relatedItems xmi:id="_fQ-1A84BEeeo5JN2KCRYow" id="_iTwHoM3vEeeo5JN2KCRYow" version="Latest" type="property"/>
       <relatedItems xmi:id="_fQ-1BM4BEeeo5JN2KCRYow" id="SQLike" version="Latest" type="routine"/>
       <relatedItems xmi:id="_fQ-1Bc4BEeeo5JN2KCRYow" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_fQ-1Bs4BEeeo5JN2KCRYow" id="TalendString" version="Latest" type="routine"/>
