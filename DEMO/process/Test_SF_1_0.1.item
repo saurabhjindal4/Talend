@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default" jobType="Standard">
   <context confirmationNeeded="false" name="Default">
-    <contextParameter comment="" name="connection_salesforce_timeout" prompt="connection_salesforce_timeout?" promptNeeded="false" repositoryContextId="_YCke0M4HEeeo5JN2KCRYow" type="id_Integer" value="60000"/>
     <contextParameter comment="" name="connection_salesforce_userPassword_password" prompt="connection_salesforce_userPassword_password?" promptNeeded="false" repositoryContextId="_YCke0M4HEeeo5JN2KCRYow" type="id_Password" value="PaMGaAOzLOjDHWs9RD/ITw=="/>
     <contextParameter comment="" name="connection_salesforce_userPassword_securityKey" prompt="connection_salesforce_userPassword_securityKey?" promptNeeded="false" repositoryContextId="_YCke0M4HEeeo5JN2KCRYow" type="id_Password" value="rkDhZKDFTa98qOJQ7qOHivCh5zuJN9UysHEAAbCAol8="/>
     <contextParameter comment="" name="connection_salesforce_userPassword_userId" prompt="connection_salesforce_userPassword_userId?" promptNeeded="false" repositoryContextId="_YCke0M4HEeeo5JN2KCRYow" type="id_String" value="saurabhjindaliitb@gmail.com"/>
