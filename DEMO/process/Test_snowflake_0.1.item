@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default" jobType="Standard">
   <context confirmationNeeded="false" name="Default">
-    <contextParameter comment="" name="connection_snowflake_database" prompt="connection_snowflake_database?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_snowflake_userId" prompt="connection_snowflake_userId?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_snowflake_password" prompt="connection_snowflake_password?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_snowflake_warehouse" prompt="connection_snowflake_warehouse?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_snowflake_schema" prompt="connection_snowflake_schema?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_snowflake_account" prompt="connection_snowflake_account?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="connection_snowflake_database" prompt="connection_snowflake_database?" promptNeeded="false" type="id_String" value="PK_DEMODB"/>
+    <contextParameter comment="" name="connection_snowflake_userId" prompt="connection_snowflake_userId?" promptNeeded="false" type="id_String" value="tajinder"/>
+    <contextParameter comment="" name="connection_snowflake_password" prompt="connection_snowflake_password?" promptNeeded="false" type="id_Password" value="p8HSfFMPDh0bnu94b8n5fQ=="/>
+    <contextParameter comment="" name="connection_snowflake_warehouse" prompt="connection_snowflake_warehouse?" promptNeeded="false" type="id_String" value="LOAD_WH"/>
+    <contextParameter comment="" name="connection_snowflake_schema" prompt="connection_snowflake_schema?" promptNeeded="false" type="id_String" value="PUBLIC"/>
+    <contextParameter comment="" name="connection_snowflake_account" prompt="connection_snowflake_account?" promptNeeded="false" type="id_String" value="eccella.eu-central-1"/>
   </context>
   <parameters>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" value="0" show="false"/>
