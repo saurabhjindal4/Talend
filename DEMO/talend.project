@@ -197,8 +197,6 @@
     </ItemsRelations>
     <ItemsRelations xmi:id="_AqCoMM7CEeevWMBdu9sI8A">
       <baseItem xmi:id="_AqCoMc7CEeevWMBdu9sI8A" id="_rAOAEM7BEeevWMBdu9sI8A" version="0.1" type="job"/>
-      <relatedItems xmi:id="_AqCoMs7CEeevWMBdu9sI8A" id="_puYtMM3vEeeo5JN2KCRYow" version="Latest" type="context"/>
-      <relatedItems xmi:id="_AqCoM87CEeevWMBdu9sI8A" id="_iTwHoM3vEeeo5JN2KCRYow" version="Latest" type="property"/>
       <relatedItems xmi:id="_AqCoNM7CEeevWMBdu9sI8A" id="SQLike" version="Latest" type="routine"/>
       <relatedItems xmi:id="_AqCoNc7CEeevWMBdu9sI8A" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_AqCoNs7CEeevWMBdu9sI8A" id="TalendString" version="Latest" type="routine"/>
